@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D8C11BD-D6BB-448F-8D69-2D78730BD10A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0146A2A8-09CF-4180-B9E4-61B8D3F2C316"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList(SwiftUI)/Views/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0146A2A8-09CF-4180-B9E4-61B8D3F2C316 - 71f7987415335aa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(ToDoList_SwiftUI_.HeaderView, &lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(ToDoList_SwiftUI_.HeaderView, &lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt; in ToDoList_SwiftUI_.LoginView.body.getter : some"
+                  moduleName = "ToDoList(SwiftUI)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladislavkvinto/Projects/ToDoList-SwiftUI-/ToDoList(SwiftUI)/Views/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "0146A2A8-09CF-4180-B9E4-61B8D3F2C316 - 1577e675d4b2db85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.autocapitalization(__C.UITextAutocapitalizationType) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.textFieldStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.TextFieldStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, ToDoList_SwiftUI_.TLButton)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(ToDoList_SwiftUI_.HeaderView, &lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(ToDoList_SwiftUI_.HeaderView, &lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt; in ToDoList_SwiftUI_.LoginView.body.getter : some"
+                  moduleName = "ToDoList(SwiftUI)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladislavkvinto/Projects/ToDoList-SwiftUI-/ToDoList(SwiftUI)/Views/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -7,20 +7,20 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct MainView: View {
+    @StateObject var viewModel = MainViewViewModel() 
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        if viewModel.isSignedIn, !viewModel.currentUserId.isEmpty {
+            ToDoListView()
+        } else {
+            LoginView()
         }
-        .padding()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        MainView()
     }
 }
